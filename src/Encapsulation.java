@@ -34,9 +34,9 @@ class EncapsulationExercise{
     public static void exercise(){
         // Khi tạo một đối tượng mới
         // Để truy cập được vào các biến private chỉ có thể dùng các phương thức getter và setter.
-        Encapsulation obj1 = new Encapsulation();
-        obj1.setName("Trong");
-        obj1.setBirthYear(2001);
-        System.out.println(obj1.getName() +", "+obj1.getBirthYear());
+        Encapsulation encapsulation = new Encapsulation();
+        encapsulation.setName("Trong");
+        encapsulation.setBirthYear(2001);
+        System.out.println(encapsulation.getName() +", "+encapsulation.getBirthYear());
     }
 }
