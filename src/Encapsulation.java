@@ -31,7 +31,7 @@ public class Encapsulation {
     }
 }
 class EncapsulationExercise{
-    public static void Exercise(){
+    public static void exercise(){
         // Khi tạo một đối tượng mới
         // Để truy cập được vào các biến private chỉ có thể dùng các phương thức getter và setter.
         Encapsulation obj1 = new Encapsulation();

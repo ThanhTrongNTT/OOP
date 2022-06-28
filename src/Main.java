@@ -12,12 +12,12 @@ import Polymorphism.TestPolymorphism;
 public class Main {
     public static void main(String[] args) {
         System.out.println("---Encapsulation---");
-        EncapsulationExercise.Exercise();
+        EncapsulationExercise.exercise();
         System.out.println("---inheritance---");
-        TestInheritance.Test();
+        TestInheritance.test();
         System.out.println("---Polymorphism---");
-        TestPolymorphism.Test();
+        TestPolymorphism.test();
         System.out.println("---Abstraction---");
-        TestAbstraction.Exercise();
+        TestAbstraction.exercise();
     }
 }

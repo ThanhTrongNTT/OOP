@@ -8,7 +8,7 @@ package Polymorphism;
  * Filename : TestPolymorphism
  */
 public class TestPolymorphism {
-    public static void Test(){
+    public static void test(){
         Shape shape;
         shape = new Square();
         shape.info();

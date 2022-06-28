@@ -8,7 +8,7 @@ package Abstraction;
  * Filename : TestAbtraction
  */
 public class TestAbstraction {
-    public static void Exercise(){
+    public static void exercise(){
         System.out.println("---Dog Sound---");
         Dog dog = new Dog();
         dog.showSound();

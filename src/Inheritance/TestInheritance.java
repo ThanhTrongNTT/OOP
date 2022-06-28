@@ -8,7 +8,7 @@ package Inheritance;
  * Filename : TestInheritance
  */
 public class TestInheritance {
-    public static void Test(){
+    public static void test(){
         Dog dog = new Dog();
         Cat cat = new Cat();
         System.out.println("---Dog---");
